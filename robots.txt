@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://davidcforbes.github.io/FAM-Website/sitemap.xml

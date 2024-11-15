@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Forbes Asset Management, Inc.</title>
+    <link href="https://davidcforbes.github.io/FAM-Website/feed.xml" rel="self" />
+    <link href="https://davidcforbes.github.io/FAM-Website" />
+    <updated>2024-11-14T21:03:18-08:00</updated>
+    <author>
+        <name>Chris Forbes</name>
+    </author>
+    <id>https://davidcforbes.github.io/FAM-Website</id>
+
+    <entry>
+        <title>This is my first Post</title>
+        <author>
+            <name>Chris Forbes</name>
+        </author>
+        <link href="https://davidcforbes.github.io/FAM-Website/this-is-my-first-post.html"/>
+        <id>https://davidcforbes.github.io/FAM-Website/this-is-my-first-post.html</id>
+
+        <updated>2024-11-14T21:03:18-08:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a sample post. &lt;header&gt; ##Junk &lt;/header&gt; Faocnaodndc a acoajndc opanc acnalscnackn a
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a sample post.</p>
+<pre class="language-html"><code>&lt;header&gt;
+##Junk
+&lt;/header&gt;</code></pre>
+<p><strong>Faocnaodndc a</strong></p>
+<p><em>acoajndc opanc </em></p>
+<p><span style="text-decoration: line-through;">acnalscnackn a</span></p>
+<hr>
+<figure class="post__image"><img loading="lazy"  src="https://davidcforbes.github.io/FAM-Website/media/posts/1/Forbes2.gif" alt="" width="415" height="430"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/1727158442272.jpeg" data-size="800x448"><img loading="lazy" src="https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/1727158442272-thumbnail.jpeg" alt="Cybersecurity and Risk" width="720" height="403"></a></figure>
+<figure class="gallery__item"><a href="https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/Business1.jpg" data-size="1800x1200"><img loading="lazy" src="https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/Business1-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/Business2.jpg" data-size="1000x667"><img loading="lazy" src="https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/Business2-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

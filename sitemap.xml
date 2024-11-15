@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://davidcforbes.github.io/FAM-Website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://davidcforbes.github.io/FAM-Website/</loc>
+</url>
+<url>
+<loc>https://davidcforbes.github.io/FAM-Website/this-is-my-first-post.html</loc>
+<lastmod>2024-11-14T21:03:18-08:00</lastmod>
+<image:image>
+<image:loc>https://davidcforbes.github.io/FAM-Website/media/posts/1/Forbes2.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/1727158442272-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Cybersecurity and Risk]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/Business1-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://davidcforbes.github.io/FAM-Website/media/posts/1/gallery/Business2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
